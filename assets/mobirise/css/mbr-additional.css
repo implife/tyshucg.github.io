@@ -485,6 +485,9 @@ h6,
 #header5-9 .mbr-section-lead {
   color: #9c9a9a;
 }
+#header5-9 .mbr-section-lead P {
+  text-align: center;
+}
 #contacts5-7 p,
 #contacts5-7 .list-group-text,
 #contacts5-7 .form-control-label {
